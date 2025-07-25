@@ -50,7 +50,7 @@ It offers **3 levels of wipe security**, showing how TRIM operations, file wipin
 
 ## Screenshot
 
-*Add your screenshots to the repo and reference here with:*
+![Alt text](https://github.com/NIKJOO/SSDNuke/blob/main/Shot.jpg)
 
 ## Follow Me
 
