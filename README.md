@@ -12,7 +12,9 @@
 
 SSD Nuke is an educational tool demonstrating secure SSD data wiping techniques.  
 It offers **3 levels of wipe security**, showing how TRIM operations, file wiping, empty-space sanitization, and Master File Table (MFT) cleaning interact.
- `SSDNuke works well with all types of storages such as SSD(SATA,NVME),HDD,Thumb drives,SD-Cards` 
+
+` SSDNuke works well with all types of storages such as SSD's(SATA,NVME),HDD's,Thumb drives,SD-Cards ` 
+ 
 ---
 
 ## Features
