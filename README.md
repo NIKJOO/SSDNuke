@@ -44,7 +44,7 @@ It offers **3 levels of wipe security**, showing how TRIM operations, file wipin
 3. Select your desired wipe method:  
    - `1` – Low Security  
    - `2` – Medium Security  
-   - `3` – High Security (choose this option for max security, IRGC and MOIS can't recover your data in case somebody arrested). 
+   - `3` – High Security
 4. Choose the target drive (e.g., `D`).  
 5. Confirm when prompted.
 
